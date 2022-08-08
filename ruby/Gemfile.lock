@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    http2 (0.0.36)
+      string-cases (~> 0)
+    http_parser.rb (0.8.0)
+    string-cases (0.0.4)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  http2 (~> 0.0.32)
+  http_parser.rb
+
+BUNDLED WITH
+   2.3.9
